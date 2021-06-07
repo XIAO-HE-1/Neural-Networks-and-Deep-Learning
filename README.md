@@ -9,3 +9,4 @@ This repo contains deep learning projects for [Deep Learning Specialization on C
   * [Deep Neural Network Application](https://github.com/XIAO-HE-1/Neural-Networks-and-Deep-Learning/blob/master/Deep%2BNeural%2BNetwork%2BApplication%2Bv8.ipynb)
 #### Part 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
   * [Initialization](https://github.com/XIAO-HE-1/Neural-Networks-and-Deep-Learning/blob/master/Initialization.ipynb) 
+  * [Regularization + Dropout](https://github.com/XIAO-HE-1/Neural-Networks-and-Deep-Learning/blob/master/Regularization%2BDropout.ipynb)
