@@ -10,3 +10,7 @@ This repo contains deep learning projects for [Deep Learning Specialization on C
 #### Part 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
   * [Initialization](https://github.com/XIAO-HE-1/Neural-Networks-and-Deep-Learning/blob/master/Initialization.ipynb) 
   * [Regularization + Dropout](https://github.com/XIAO-HE-1/Neural-Networks-and-Deep-Learning/blob/master/Regularization%2BDropout.ipynb)
+  * [Optimization Methods](https://github.com/XIAO-HE-1/Neural-Networks-and-Deep-Learning/blob/master/Optimization_methods.ipynb)
+    + Momentum
+    + Adam
+    + Learning Rate Decay and Scheduling
